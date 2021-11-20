@@ -1,4 +1,4 @@
-# Python program to check if given mobile number is valid
+# Python program to check if given mobile number is valid 
 import re
 
 def isValid(s):

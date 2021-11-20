@@ -1,4 +1,4 @@
-# Python program to compare strings ignore case
+# Python program to compare strings ignore upper and lower case
 
 # Goal name
 string1 = 'Maximilian'

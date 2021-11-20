@@ -3,7 +3,7 @@ inputString = "Hello World"
 l = len(inputString)
 newString = ""
 
-# looping through the string
+# looping through the string 
 for i in range(0, len(inputString)):
 	if l < 2:
 		break
